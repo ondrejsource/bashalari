@@ -16,7 +16,7 @@ def getlogin():
     print("Zadej své přihlašovací údaje (tvé údaje nejsou ukládány mimo tento počítač a nejsou posílány mimo "
           "Bakaláře:")
 
-    username = getpass.getuser(prompt="Uživatelské jméno: ")
+    username = input("Uživatelské jméno: ")
     password = getpass.getpass(prompt="Heslo: ")
 
     if testlogin(username, password) == 200:
