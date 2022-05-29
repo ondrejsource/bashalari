@@ -7,6 +7,7 @@ Snažil jsem se najít Linux distribuci, na které bych se cítil jako doma. Vyz
 
 Tímto nechci říct, že Fedora je špatná. Je to asi to druhé nejlepší distro, které jsem kdy vyzkoušel. Na mé účely a preference se ale nehodí. Z mých zkušeností mám nejradši Arch Linux, na který se teď budu stěhovat zpátky. Raději 5 minut strávím instalací 20 balíčků, než 2 hodiny odinstalací 100 balíčků. Na Archi se cítím jako doma - velká většina uživatelů Arche má velmi podobné názory, jako já, a jsou velice aktivní na fórech. Když už jsem s nějakým problémem naprosto v koncích, většinou to trvá nejvýše 2 hodiny, než někdo odpoví, a já se mohu plácnout do čela, že jsem na to nepřišel sám. Proto se tedy vracím na Arch. Lidé, kteří slyšeli o Archi, a znám je osobně, říkají, že měli s Arch Linuxem spoustu problémů. Já jim říkám, že problém není v systému, ale v lidech samých.
 
+[![Hits](https://hits.sh/github.com/ondrejsource/bashalari.svg?style=plastic&label=Hity&logo=python)](https://hits.sh/github.com/ondrejsource/bashalari/)  
 # BaSHaláři - Klientská aplikace pro Bakaláře v Pythonu
 Jako student druhého ročníku gymnázia, co nemá rád napjaté 2 minutové čekání na otevření aplikace Bakaláři jen abych zjistil, že hodina, která měla původně začínat za 20 minut
 najednou začíná za 5 minut a je na druhé straně budovy jsem se rozhodl napsat toto - rychlého, velice odlehčeného klienta Bakalářů, který se dá používat nezávisle na platformě
